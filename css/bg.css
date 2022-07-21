@@ -1,0 +1,14 @@
+body{font-family: verdana; 
+	background-color: lightgray;
+	background-image: url(hanako.png);
+	background-repeat: no-repeat;
+	background-position: right;}
+h1{color: royalblue;
+  text-align: center; 
+  font-size: 50px;}
+p{line-height: 25px; 
+  text-align: justify;
+  font-weight: bold;}
+a{text-decoration: none;}
+label{color: darkblue; 
+      font-weight: bold;}
